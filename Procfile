@@ -1,1 +1,0 @@
-web: gunicorn foodsafety_dashboard:server
